@@ -1,0 +1,13 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+eg/test.psgi
+lib/Mojolicious/Plugin/JSLoader.pm
+t/load_scripts.t
+t/load_scripts_base.t
+t/load_scripts_no_base.t
+t/no_file.t
