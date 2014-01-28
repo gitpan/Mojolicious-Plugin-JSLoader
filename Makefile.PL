@@ -20,10 +20,12 @@ my %WriteMakefileArgs = (
   "LICENSE" => "artistic_2",
   "NAME" => "Mojolicious::Plugin::JSLoader",
   "PREREQ_PM" => {
-    "Mojolicious" => "4.0"
+    "HTML::ParseBrowser" => "1.06",
+    "Mojolicious" => "4.71",
+    "version" => "0.77"
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => "t/*.t"
   }
