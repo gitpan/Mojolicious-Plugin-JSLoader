@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Mojolicious-Plugin-JSLoader,
-version 0.03:
+version 0.04:
 
   move js loading to the end of the document
 

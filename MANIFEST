@@ -9,8 +9,11 @@ dist.ini
 eg/test.psgi
 lib/Mojolicious/Plugin/JSLoader.pm
 t/browser_ie8.t
+t/check.t
+t/check_local_file.t
 t/inplace.t
 t/load_scripts.t
 t/load_scripts_base.t
 t/load_scripts_no_base.t
 t/no_file.t
+t/public/test.js
